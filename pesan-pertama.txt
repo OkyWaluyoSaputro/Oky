@@ -1,0 +1,1 @@
+Halo! Pesan ini dikirim dari Jupyter Notebook dan disimpan di LocalStack.

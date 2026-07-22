@@ -1,0 +1,23 @@
+[
+  {
+    "instanceId": "i-4bc78db2bc987bfb3",
+    "name": "",
+    "state": "running",
+    "instanceType": "t2.micro",
+    "imageId": "ami-c3444444",
+    "launchTime": "2026-07-22T18:54:32+00:00",
+    "publicIpAddress": null,
+    "privateIpAddress": "10.0.105.186",
+    "vpcId": "vpc-00000001",
+    "subnetId": "subnet-00000001",
+    "keyName": "",
+    "platform": null,
+    "securityGroups": [
+      {
+        "GroupId": "sg-00000001",
+        "GroupName": "default"
+      }
+    ],
+    "tags": []
+  }
+]
